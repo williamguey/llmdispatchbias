@@ -53,17 +53,7 @@ export OPENROUTER_API_KEY="sk-or-v1-..."
 python app.py
 ```
 
-## Citation
 
-```bibtex
-@article{guey2026dispatchbias,
-  title={Emergency Dispatch LLM Bias: A Cross-Lingual PPDS Benchmark},
-  author={Guey, William},
-  journal={Humanities and Social Sciences Communications},
-  year={2026},
-  note={Under review}
-}
-```
 
 ## License
 
