@@ -8,7 +8,18 @@ An LLM bias benchmark for emergency dispatch classification. Tests whether demog
 
 Companion code for the paper:
 
-> William Guey. *Emergency Dispatch LLM Bias: A Cross-Lingual PPDS Benchmark*. Submitted to the Humanities and Social Sciences Communications special issue on Artificial Intelligence and Emerging Technologies in Public Safety.
+LLM-DispatchBias: a cross-lingual benchmark for evaluating demographic bias in large language model emergency dispatch classification
+
+William Guey¹, Wei Zhang¹, Pierrick Bougault¹, Yi Wang¹, Bertan Ucar¹ Vitor D. de Moura², José O. Gomes³, 
+
+¹ Department of Industrial Engineering, Tsinghua University, Beijing, China
+² School of Social Sciences, Tsinghua University, Beijing, China
+³ Department of Industrial Engineering, Federal University of Rio de Janeiro, Brazil
+
+Author contributions
+W.G. conceived the study, designed and implemented the benchmark, conducted the experiments, analyzed the data, and wrote the manuscript. W.Z. provided supervision, contributed to the study design, and reviewed and edited the manuscript. P.B. contributed to scenario design and methodology refinement and edited the manuscript. Y.W contributed to methodology refinement and edited the manuscript. B.U conducted the experiments, analyzed the data.  V.D.M. contributed to social-science framing and reviewed the manuscript. J.O.G. provided supervision contributed to the methodological design and provided cross-institutional review. 
+
+
 
 ## What it does
 
